@@ -1,0 +1,6 @@
+Hello	file:/Users/shengqichen/Desktop/WordCount/input/file3.txt:1;
+MapReduce	file:/Users/shengqichen/Desktop/WordCount/input/file3.txt:2;file:/Users/shengqichen/Desktop/WordCount/input/file1.txt:1;file:/Users/shengqichen/Desktop/WordCount/input/file2.txt:1;
+bye	file:/Users/shengqichen/Desktop/WordCount/input/file3.txt:1;
+is	file:/Users/shengqichen/Desktop/WordCount/input/file1.txt:1;file:/Users/shengqichen/Desktop/WordCount/input/file2.txt:2;
+powerful	file:/Users/shengqichen/Desktop/WordCount/input/file2.txt:1;
+simple	file:/Users/shengqichen/Desktop/WordCount/input/file2.txt:1;file:/Users/shengqichen/Desktop/WordCount/input/file1.txt:1;
